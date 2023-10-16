@@ -1,0 +1,16 @@
+.ApaAja{
+    background-color: khaki;
+    display: flex;
+    margin: 0px;
+    height: 100px;
+}
+div{
+    background: salmon;
+    font-size: 50px;
+    justify-content: space-around;
+    height: auto;
+    color: white;
+    flex-direction: row-reverse;
+    align-items: center;
+    text-align: center;
+}
